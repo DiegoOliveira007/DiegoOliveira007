@@ -15,9 +15,13 @@
 <a href="https://www.tiktok.com/@stay_y2?_t=8qUzPzwjOHl&_r=1" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="" /></a>
 </p>
 <p align="center"> <b>Atualmente Sou estudante do IFBA- Instituto Federal da Bahia, estou cursando atualmente informático como meu curso técnico, estou no período do terceiro ano. Estou tentando aprender o máximo para levar para frente para minha carreira programador e que consiga fazer projetos ou trabalhe na área que mais gosto</b></p>
+<div align="right"> 
+  
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31wgb26z2k6s2m5jg5ubow45xrpa&count=1)
 
+</div>
 <hr>
-<h3 align="left">:wrench:Languages and Tools</h3>
+<h3 align="left">:wrench:Languages and Tools</h3> 
 <div align="left" style="display: incline_block">
 <img algin="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="38" />
 <img algin="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="38" />
@@ -27,6 +31,8 @@
 <img algin="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" width="40" height="38" />
 <img algin="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="38" /> 
 </div>
+
+
 
 <h1 align="center">Github Stats :bar_chart: </h1>
 
@@ -39,3 +45,14 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=DiegoOliveira007&theme=date-night&locale=pt_BR&fire=FACFC5&ring=FC3737&currStreakNum=FACFC5&sideNums=FACFC5&currStreakLabel=FF0000&sideLabels=FF0000&dates=FACFC5&stroke=FACFC5&border=CACACA)](https://git.io/streak-stats)
 
 </div>
+
+<h1 align="center">My contribution</h1>
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DiegoOliveira007/DiegoOliveira007/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DiegoOliveira007/DiegoOliveira007/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DiegoOliveira007/DiegoOliveira007/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
+
+<br><br>
