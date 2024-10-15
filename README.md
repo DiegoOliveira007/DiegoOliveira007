@@ -5,7 +5,7 @@
 
 </h1>
 <div align="center">
-<img align="center" border_radius="5.4" src="https://github.com/DiegoOliveira007/DiegoOliveira007/blob/main/Header.gif" width="950" height="500" >
+<img align="center" border_radius="5.4" src="https://github.com/DiegoOliveira007/DiegoOliveira007/blob/main/Header.gif" width="700" height="300" >
 </div>
 <br>
 <p align="center">
