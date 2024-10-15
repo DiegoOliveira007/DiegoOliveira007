@@ -1,10 +1,11 @@
 
 <h1>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=41&pause=1000&color=F70000&width=950&center=true&lines=Bem+vindo+ao+meu+perfil;Meu+nome+%C3%A9+Diego+Oliveira;Tenho+18+anos)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=41&pause=1000&color=F70000&width=950&center=true&lines=Bem+vindo+ao+meu+perfil+:];Meu+nome+%C3%A9+Diego+Oliveira;Tenho+18+anos)](https://git.io/typing-svg)
+
 </h1>
 <div align="center">
-<img align="center" border_radius="5.4" src="https://github.com/DiegoOliveira007/DiegoOliveira007/blob/main/Header.gif" width="800" height="500" >
+<img align="center" border_radius="5.4" src="https://github.com/DiegoOliveira007/DiegoOliveira007/blob/main/Header.gif" width="950" height="500" >
 </div>
 <br>
 <p align="center">
@@ -14,14 +15,14 @@
 <a href="https://open.spotify.com/user/31wgb26z2k6s2m5jg5ubow45xrpa?si=y6tzc2MqQA-rzWp0FmDvYw" target="blank"><img align="center" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="" /></a>
 <a href="https://www.tiktok.com/@stay_y2?_t=8qUzPzwjOHl&_r=1" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="" /></a>
 </p>
-<p align="center"> <b>Atualmente Sou estudante do IFBA- Instituto Federal da Bahia, estou cursando atualmente informático como meu curso técnico, estou no período do terceiro ano. Estou tentando aprender o máximo para levar para frente para minha carreira programador e que consiga fazer projetos ou trabalhe na área que mais gosto</b></p>
+<p align="center"> <b>Atualmente sou estudante :man_student:	 do IFBA - Instituto Federal de Educação, Ciência e Tecnologia da Bahia. Estou cursando Informática como curso técnico e atualmente estou no terceiro ano. Estou tentando aprender o máximo possível para levar adiante na minha carreira como programador, para que eu possa desenvolver projetos ou trabalhar na área que mais gosto.</b></p>
 <div align="right"> 
   
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31wgb26z2k6s2m5jg5ubow45xrpa&count=1)
 
 </div>
 <hr>
-<h3 align="left">:wrench:Languages and Tools</h3> 
+<h3 align="left">:computer:Languages and Tools</h3> 
 <div align="left" style="display: incline_block">
 <img algin="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="38" />
 <img algin="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="38" />
@@ -34,7 +35,7 @@
 
 
 
-<h1 align="center">Github Stats :bar_chart: </h1>
+<h1 align="center">:bar_chart:Github Stats</h1>
 
 <div align="center">
   
@@ -46,7 +47,7 @@
 
 </div>
 
-<h1 align="center">My contribution</h1>
+<h1 align="center">:rocket:My Contribution</h1>
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DiegoOliveira007/DiegoOliveira007/output/github-contribution-grid-snake-dark.svg">
@@ -55,4 +56,7 @@
 </picture>
 </div>
 
-<br><br>
+<div align="center">
+<h3>Visitors Count</h3> <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FDiegoOliveira007&s=45&c=ff0000&bg=00000000&no=7&ff=digi&tb=&ta=" alt="visits">
+</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=C00000&section=footer">
