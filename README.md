@@ -43,7 +43,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoOliveira007&layout=compact&theme=date_night&locale=pt-BR&icon_color=FF0000&text_color=FACFC5&title_color=FC3737&border_color=CACACA)
 
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=DiegoOliveira007&theme=date-night&locale=pt_BR&fire=FACFC5&ring=FC3737&currStreakNum=FACFC5&sideNums=FACFC5&currStreakLabel=FF0000&sideLabels=FF0000&dates=FACFC5&stroke=FACFC5&border=CACACA)](https://git.io/streak-stats)
 
 </div>
 
