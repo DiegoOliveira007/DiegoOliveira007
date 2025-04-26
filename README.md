@@ -15,7 +15,7 @@
 <a href="https://open.spotify.com/user/31wgb26z2k6s2m5jg5ubow45xrpa?si=y6tzc2MqQA-rzWp0FmDvYw" target="blank"><img align="center" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="" /></a>
 <a href="https://www.tiktok.com/@stay_y2?_t=8qUzPzwjOHl&_r=1" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="" /></a>
 </p>
-<p align="center"> <b>Atualmente sou estudante :man_student:	 do IFBA - Instituto Federal de Educação, Ciência e Tecnologia da Bahia. Estou cursando Informática como curso técnico e atualmente estou no terceiro ano. Estou tentando aprender o máximo possível para levar adiante na minha carreira como programador, para que eu possa desenvolver projetos ou trabalhar na área que mais gosto.</b></p>
+<p align="center"> <b>Atualmente sou estudante :man_student:	 do IFBA - Instituto Federal de Educação, Ciência e Tecnologia da Bahia. Estou cursando Informática como curso técnico e atualmente estou no quarto ano. Estou tentando aprender o máximo possível para levar adiante na minha carreira como programador, para que eu possa desenvolver projetos ou trabalhar na área que mais gosto.</b></p>
 <div align="right"> 
   
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31wgb26z2k6s2m5jg5ubow45xrpa&count=1)
