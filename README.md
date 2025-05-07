@@ -1,7 +1,7 @@
 
 <h1>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=41&pause=1000&color=F70000&width=950&center=true&lines=Bem+vindo+ao+meu+perfil+:];Meu+nome+%C3%A9+Diego+Oliveira;Tenho+18+anos)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=41&pause=1000&color=F70000&width=950&center=true&lines=Bem+vindo+ao+meu+perfil+:];Meu+nome+%C3%A9+Diego+Oliveira;Tenho+19+anos)](https://git.io/typing-svg)
 
 </h1>
 <div align="center">
